@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Android projects using Jetpack Compose and Kotlin**
-- 🌱 I’m currently learning **Kotlin Multiplatform**
+- 🌱 I’m currently learning **Conpose Multiplatform**
 - 💬 Ask me about **Kotlin, Jetpack Compose, and other Android libraries**
 - 📝 I regularly write articles on [Medium](https://medium.com/@aslibayar)
 
