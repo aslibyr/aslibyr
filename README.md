@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on **Android projects using Jetpack Compose and Kotlin**
 - 🌱 I’m currently learning **Kotlin Multiplatform**
 - 💬 Ask me about **Kotlin, Jetpack Compose, and other Android libraries**
-- 📫 How to reach me: **aslibyr00@gmail.com**
 - 📝 I regularly write articles on [Medium](https://medium.com/@aslibayar)
 
 <h3 align="left">Connect with me:</h3>
