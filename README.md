@@ -38,9 +38,3 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslibyr&show_icons=true&theme=radical" alt="Aslı's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslibyr&layout=compact&theme=radical" alt="Aslı's Most Used Languages" width="48%"/>
-</p>
